@@ -1,5 +1,4 @@
 # irisclassifier
-README for Logistic Regression Model on Iris Dataset
 Overview
 This is a simple implementation of a Logistic Regression model on the Iris dataset using the scikit-learn library. The program loads the Iris dataset, splits it into training and testing sets, trains a Logistic Regression model on the training data, makes predictions on the testing data, and evaluates the performance of the model using different metrics.
 
